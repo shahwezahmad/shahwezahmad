@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and open source era.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Persuing my bachelors in Computer Science and Engineering .
 - 💼 &nbsp;Looking for Software Development Internship.
 
