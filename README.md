@@ -32,10 +32,10 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;C++ | java | Python | JavaScript
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js |  ReactJS
+- 💻 &nbsp;C++ | JavaScript
+- 🌐 &nbsp; HTML | CSS | Bootstrap | TailwindCSS | Node.js |  ReactJS | Angular
 - 🛢 &nbsp; MySql | MongoDB
-- 🖥 &nbsp;Git | Github | Horuku
+- 🖥 &nbsp;Git | Github 
 
 
 
