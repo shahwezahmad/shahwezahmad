@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp I completed my bachelor's in Computer Science and Engineering.
+- 🎓 &nbsp; I completed my bachelor's in Computer Science and Engineering.
 - 💼 &nbsp; Looking for Software Development Role.
 
 
