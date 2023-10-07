@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Persuing my bachelors in Computer Science and Engineering .
-- 💼 &nbsp;Looking for Software Development Internship.
+- 🎓 &nbsp I completed my bachelor's in Computer Science and Engineering.
+- 💼 &nbsp; Looking for Software Development Role.
 
 
 
