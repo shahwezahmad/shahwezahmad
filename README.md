@@ -1,12 +1,12 @@
 
 
-<h2> Adab there! I'm Shahwez.</h2>
+<h2> Hi there! I'm Shahwez.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
+- 😊 &nbsp; Frontend Engineer in Godigit General Insurace
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; I completed my bachelor's in Computer Science and Engineering.
-- 💼 &nbsp; Looking for Software Development Role.
+- 💼 &nbsp; Open to work in Software Engineer Role.
 
 
 
@@ -32,9 +32,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;C++ | JavaScript
+- 💻 &nbsp; Typescript | JavaScript
 - 🌐 &nbsp; HTML | CSS | Bootstrap | TailwindCSS | Node.js |  ReactJS | Angular
-- 🛢 &nbsp; MySql | MongoDB
+- 🛢 &nbsp; MongoDB
 - 🖥 &nbsp;Git | Github 
 
 
